@@ -11,7 +11,7 @@ node_modules
 .vscode
 .firebase
 
-src/firebase_Key.ts
+# !src/firebase_Key.ts
 
 dist
 dist-ssr
