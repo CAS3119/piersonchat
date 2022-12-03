@@ -11,6 +11,8 @@ node_modules
 .vscode
 .firebase
 
+firebase_Keys.ts
+
 dist
 dist-ssr
 *.local
